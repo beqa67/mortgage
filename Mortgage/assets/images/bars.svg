@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="22" height="17.111" viewBox="0 0 22 17.111">
+  <g id="Vector_Smart_Object" data-name="Vector Smart Object" transform="translate(-1736 -1076)">
+    <g id="Vector_Smart_Object-2" data-name="Vector Smart Object" transform="translate(1736 1076)">
+      <rect id="Rectangle_1" data-name="Rectangle 1" width="22" height="2.329" rx="1.165" transform="translate(0)"/>
+      <rect id="Rectangle_2" data-name="Rectangle 2" width="22" height="2.329" rx="1.165" transform="translate(0 7.391)"/>
+      <rect id="Rectangle_3" data-name="Rectangle 3" width="22" height="2.329" rx="1.165" transform="translate(0 14.782)"/>
+    </g>
+    <path id="Color_Overlay" data-name="Color Overlay" d="M1.179,17.112A1.178,1.178,0,0,1,0,15.934v-.49a1.178,1.178,0,0,1,1.179-1.179H20.822A1.178,1.178,0,0,1,22,15.444v.49a1.178,1.178,0,0,1-1.178,1.178Zm0-7.132A1.178,1.178,0,0,1,0,8.8v-.49A1.179,1.179,0,0,1,1.179,7.133H20.822A1.179,1.179,0,0,1,22,8.312V8.8A1.178,1.178,0,0,1,20.822,9.98Zm0-7.133A1.178,1.178,0,0,1,0,1.669V1.18A1.178,1.178,0,0,1,1.179,0H20.822A1.178,1.178,0,0,1,22,1.18v.49a1.178,1.178,0,0,1-1.178,1.178Z" transform="translate(1736 1076)" fill="#004dff"/>
+  </g>
+</svg>
